@@ -2,6 +2,9 @@
 
 This is the sample app which shows the color transition animation like in Instagram.
 
+## Usage
+Please follow the instructions or steps mentioned in gist https://gist.github.com/deepak786/12eee8412fa7914a16774ce546e1a089 to integrate or implement this transition in your existing/New app.
+
 ## Demo
 <img src="video/recorded.gif" alt="Screenshot" width="350" />
 
